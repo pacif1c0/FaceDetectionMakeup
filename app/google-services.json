@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253905867053",
+    "project_id": "facedetectionmakeup",
+    "storage_bucket": "facedetectionmakeup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253905867053:android:ffb0a97f976faeaaad83a4",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionmakeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253905867053-jafbrcao0r0a6d9roeh0i8vcg5km6rr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq4ZkVSX8sLhu6xDPHa40F2bJ8fKrkel4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253905867053-jafbrcao0r0a6d9roeh0i8vcg5km6rr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
